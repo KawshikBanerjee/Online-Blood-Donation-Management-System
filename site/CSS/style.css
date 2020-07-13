@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "Bahn";
+    src: url('../fonts/Bahn.TTF');
+}
+
+@font-face {
+    font-family: "Calibri";
+    src: url('../fonts/Calibri.ttf');
+}
+
+@font-face {
+    font-family: "Arial";
+    src: url('../fonts/Arial.ttf');
+}
+
+.main-menu .navbar .navbar-brand {
+    font-family: "Bahn";
+}
+
+.main-menu .navbar .navbar-nav .nav-item {
+    font-family: "Bahn";
+}
+
+.welcome {
+    padding: 5%;
+    font-family: "Bahn";
+}
+
+.adminLogin {
+    padding: 3%;
+    font-family: "Bahn";
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.form-group input::placeholder {
+    opacity: 0.45;
+}
+
+form {
+    display: inline-block;
+}
+
+.submitButton {
+    width: 20rem;
+}
+
+
+.main-menu .submitButton:hover {
+    opacity: 0.8;
+}
+
+.addDonor {
+    padding: 3%;
+    padding-left: 10%;
+    font-family: "Bahn";
+}
+
+.searchDonor {
+    padding: 3%;
+    font-family: "Bahn";
+    font-size: 1rem;
+    text-align: center;
+}
+
+.show {
+    padding: 3%;
+}
+
+.footer-area .para {
+    font-family: "Calibri"; 
+    background: darkslategrey;
+    padding: 5%;
+}
