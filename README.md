@@ -18,4 +18,4 @@ A simple blood donation management project developed using **PHP** and **MySQL**
 -	Visit **127.0.0.1/bloodDonationManagement/site** or **localhost/bloodDonationManagement/site** from your browser.
 -	See **adminData.txt** file for default admin username and password.
 ________________________________________
-*Note: This project contains **SQL vulnerability**. Mainly this is for academic purpose about how the backend system of a website works. There is still a to improve.*
+*Note: This project contains **SQL vulnerability**. Mainly this project is for academic purpose about how the backend system of a website works. There is still a lot to improve.*
