@@ -11,10 +11,10 @@ A simple blood donation management project developed using **PHP** and **MySQL**
 - Change admin password
 ## User guide:
 -	Download the zip file, and then extract or clone it.
--	Create a folder (say, “bloodDonationManagement”) in xampp/htdocs directory (say, **C:\xampp\htdocs**).
+-	Create a folder (say, **“bloodDonationManagement”**) in xampp/htdocs directory (say, **C:\xampp\htdocs**).
 -	Copy and paste all files inside that folder.
--	Open xampp server and run **Apache** and **MySQL**.
--	Import the **.sql** file from database folder to phpmyadmin.
+-	Open **xampp** server and run **Apache** and **MySQL**.
+-	Import the **SQL** file from **database** folder to **phpmyadmin.**
 -	Visit **127.0.0.1/bloodDonationManagement/site** or **localhost/bloodDonationManagement/site** from your browser.
 -	See **adminData.txt** file for default admin username and password.
 ________________________________________
