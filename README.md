@@ -1,5 +1,5 @@
 ## Online Blood Donation Management System
-A simple blood donation management project developed using PHP and MySQL.
+A simple blood donation management project developed using **PHP** and **MySQL**.
 
 ## Features:
 -	Login/Logout mechanism
@@ -14,7 +14,7 @@ A simple blood donation management project developed using PHP and MySQL.
 -	Create a folder (say, “bloodDonationManagement”) in xampp/htdocs directory (say, **C:\xampp\htdocs**).
 -	Copy and paste all files inside that folder.
 -	Open xampp server and run **Apache** and **MySQL**.
--	Import the **sql** file from database folder to phpmyadmin.
+-	Import the **.sql** file from database folder to phpmyadmin.
 -	Visit **127.0.0.1/bloodDonationManagement/site** or **localhost/bloodDonationManagement/site** from your browser.
 -	See **adminData.txt** file for default admin username and password.
 ________________________________________
